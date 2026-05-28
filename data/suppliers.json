@@ -1,0 +1,4 @@
+[
+    { "id": 1, "name": "Tech Distributors Inc.", "contact": "john@techdist.com", "phone": "555-0101" },
+    { "id": 2, "name": "Fashion Wholesale Co.", "contact": "sarah@fashionwholesale.com", "phone": "555-0102" }
+]
