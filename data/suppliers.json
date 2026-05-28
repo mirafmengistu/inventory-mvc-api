@@ -1,4 +1,20 @@
 [
-    { "id": 1, "name": "Tech Distributors Inc.", "contact": "john@techdist.com", "phone": "555-0101" },
-    { "id": 2, "name": "Fashion Wholesale Co.", "contact": "sarah@fashionwholesale.com", "phone": "555-0102" }
+  {
+    "id": 1,
+    "name": "Tech Distributors Inc.",
+    "contact": "john@techdist.com",
+    "phone": "555-0101"
+  },
+  {
+    "id": 2,
+    "name": "Fashion Wholesale Co.",
+    "contact": "sarah@fashionwholesale.com",
+    "phone": "555-0102"
+  },
+  {
+    "id": 3,
+    "name": "Sports Gear Ltd",
+    "contact": "mike@sportsgear.com",
+    "phone": "555-0103"
+  }
 ]

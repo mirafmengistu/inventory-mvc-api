@@ -17,6 +17,11 @@
   {
     "id": 4,
     "name": "Books",
-    "description": "All kinds of books"
+    "description": "All sports equipment including apparel"
+  },
+  {
+    "id": 5,
+    "name": "Sports",
+    "description": "Sports equipment and gear"
   }
 ]
